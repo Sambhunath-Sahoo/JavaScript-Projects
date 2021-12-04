@@ -1,13 +1,14 @@
 # JavaScript-Projects 
  
-- [InterviewBit Scrapper](https://github.com/Sambhunath-Sahoo/interviewBit-scraper) 
  
+- [CricInfo Web Scrapper](https://github.com/Sambhunath-Sahoo/Web_Scrapper-Cricinfo) 
+
 - [Hackerrank Code Submitter](https://github.com/Sambhunath-Sahoo/hackerrank-code-submitter)
  
-- [IPL LeaderBoard](https://github.com/Sambhunath-Sahoo/IPL_leaderboard)
- 
-- [GitHub Issue Scrapper](https://github.com/Sambhunath-Sahoo/github-issues_Scrapper)
+- [InterviewBit Scrapper](https://github.com/Sambhunath-Sahoo/interviewBit-scraper) 
 
-- [CricInfo Web Scrapper](https://github.com/Sambhunath-Sahoo/Web_Scrapper-Cricinfo) 
+- [IPL LeaderBoard](https://github.com/Sambhunath-Sahoo/IPL_leaderboard)
+
+- [GitHub Issue Scrapper](https://github.com/Sambhunath-Sahoo/github-issues_Scrapper)
 
 - [Wcat Clone](https://github.com/Sambhunath-Sahoo/wcat_Clone)
