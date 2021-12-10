@@ -1,9 +1,9 @@
 # JavaScript-Projects 
  
  
--[Writing Table](https://github.com/Sambhunath-Sahoo/openboard)
+- [Writing Table](https://github.com/Sambhunath-Sahoo/openboard)
 
--[My Cam](https://github.com/Sambhunath-Sahoo/mycamera)
+- [My Cam](https://github.com/Sambhunath-Sahoo/mycamera)
 
 - [Jira-ticket-management-clone](https://github.com/Sambhunath-Sahoo/jira)
 
