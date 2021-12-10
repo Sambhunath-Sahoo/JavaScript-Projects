@@ -1,6 +1,10 @@
 # JavaScript-Projects 
  
  
+-[Writing Table](https://github.com/Sambhunath-Sahoo/openboard)
+
+-[My Cam](https://github.com/Sambhunath-Sahoo/mycamera)
+
 - [Jira-ticket-management-clone](https://github.com/Sambhunath-Sahoo/jira)
 
 - [CricInfo Web Scrapper](https://github.com/Sambhunath-Sahoo/Web_Scrapper-Cricinfo) 
